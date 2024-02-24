@@ -1,4 +1,6 @@
-The sample code to support the article `Audio API Quick Start Guide: Playing and Recording Sound on Linux, Windows, FreeBSD and macOS`.
+# Audio API: Quick Start Guide
+
+[Audio API Quick Start Guide: Playing and Recording Sound on Linux, Windows, FreeBSD and macOS](audio-api-quick-start-guide.md)
 
 To build all examples on Linux you can do:
 
@@ -15,3 +17,8 @@ On FreeBSD:
 On macOS:
 
 	make -f Makefile.macos
+
+
+## LICENSE
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
