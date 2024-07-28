@@ -1,3 +1,5 @@
+This repo is moved here: https://github.com/stsaz/cpspg
+
 # Audio API: Quick Start Guide
 
 [Audio API Quick Start Guide: Playing and Recording Sound on Linux, Windows, FreeBSD and macOS](audio-api-quick-start-guide.md)
